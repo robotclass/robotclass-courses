@@ -2,7 +2,7 @@ h1. Занятие 1. Работа с Raspberry PI
 
 h2. Схема выводов Raspberry PI Model B
 
-!/assets/01/01/RaspiModelB_ru.png(Плата RaspberryPi)!
+!../_assets/01/01/RaspiModelB_ru.png(Плата RaspberryPi)!
 
 * CPU&GPU - центральный процессор с интегрированным графическим ускорителем
 * 512MB RAM - модуль ОЗУ 512Мб
